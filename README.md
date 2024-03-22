@@ -1,6 +1,6 @@
 # JavaScript Projects
 ## Simple JavaScript projects for practice
-- [] Weather App
+- [✅] Weather App
 - [] To-do List App
 - [] Quiz App
 - [] Password Generator
